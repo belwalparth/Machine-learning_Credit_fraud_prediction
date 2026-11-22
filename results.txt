@@ -1,0 +1,6 @@
+Model: Logistic Regression
+Threshold: 0.15
+Precision: 0.2999
+Recall: 0.3131
+F1: 0.3063
+Average Precision: 0.2408
